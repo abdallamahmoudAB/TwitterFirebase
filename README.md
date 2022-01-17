@@ -3,7 +3,7 @@ TwitterFirebase
 
 Implement Model View ViewModel (MVVM) architecture
 
-using backend server using Cloud Firestore
+ backend server using Realtime Database 
 
  authenticate and register users with Firebase
 
@@ -12,18 +12,16 @@ using backend server using Cloud Firestore
  monitor events in a database
 
  upload images to Firebase Storage
-
- structure data for optimum performance in Cloud Firestore
-
+ 
  build a fully functioning social network (likes, comments, follow, posts, notifications)
 
  programmatically construct views and controllers
 
  parse incoming JSON data from database
 
- use CocoaTouch classes, UIKit, UserNotifications and more 
+ use CocoaTouch classes, UIKit, UserNotifications
 
  use CocoaPods and custom third party APIs 
 
- implement/use protocols 
+
 
